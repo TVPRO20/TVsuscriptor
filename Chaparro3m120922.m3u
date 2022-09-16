@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="01SERIES" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",SERIES
-https://raw.githubusercontent.com/TVPRO20/Menuseries22/master/seriesmega-22.m3u
+#EXTINF:-1 tvg-logo="",Series-1
+https://raw.githubusercontent.com/HERBERTM3/iptv/main/peliculas.m3u
+
+#EXTINF:-1 tvg-logo="",Series-2
+https://github.com/werty76/epgiptvparaamigos/blob/master/Series.m3u8
+
+#EXTINF:-1 tvg-logo="",Series-3
+https://raw.githubusercontent.com/roman1616/Pelis-A-Z/master/Series.m3u
+
+#EXTINF:-1 tvg-logo="",Series-4
+https://raw.githubusercontent.com/roman1616/Pelis-A-Z/master/Series.m3u
+
+https://raw.githubusercontent.com/WMF2020/EDWINCASTRO/main/SERIES.m3u
 
 
 
