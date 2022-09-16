@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Series-1
+#EXTINF:-1 group-title="01SERIES" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",SERIES
 https://raw.githubusercontent.com/TVPRO20/Menuseries22/master/seriesmega-22.m3u
 
 
