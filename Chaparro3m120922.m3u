@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="01SERIES" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",SERIES
-#EXTINF:-1 tvg-logo="",Series-1
-https://raw.githubusercontent.com/HERBERTM3/iptv/main/peliculas.m3u
-
-#EXTINF:-1 tvg-logo="",Series-2
-https://github.com/werty76/epgiptvparaamigos/blob/master/Series.m3u8
-
-#EXTINF:-1 tvg-logo="",Series-3
-https://raw.githubusercontent.com/roman1616/Pelis-A-Z/master/Series.m3u
-
-#EXTINF:-1 tvg-logo="",Series-4
-https://raw.githubusercontent.com/roman1616/Pelis-A-Z/master/Series.m3u
-
-https://raw.githubusercontent.com/WMF2020/EDWINCASTRO/main/SERIES.m3u
-
-
-
-
-
-
 #EXTINF:-1 group-title="TOTALPLAY-SD" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png",CANAL TOTALPLAY
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1973&f=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="TOTALPLAY-SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png",IMAGEN TV
